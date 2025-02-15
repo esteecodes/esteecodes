@@ -12,7 +12,7 @@
 |-------|-----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=monacodelisa&count_private=true&theme=chartreuse-dark&show_icons=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) | -->
 
-<h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
+<!-- <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
 | Project | Description and Tech |
 |--------|----------------------------|
@@ -20,7 +20,7 @@
 | [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=200&v=4)](https://github.com/Shared-IDE/free-editor) | <h3>**Shared IDE - Free Editor**</h3> The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. <br><br> **Tech:** <br> • AnalogJS <br> • Angular Material UI |
 | [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=200&v=4)](https://github.com/orgs/WomenInSoftwareDev) | <h3>**Women in Software Dev**</h3> Empowering women in software development & engineering through visibility, resources, and collaboration. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![HashBlogWithAngular](https://raw.githubusercontent.com/esthersoftwaredev/images/refs/heads/main/hashnode-withangular-logo.jpg)](https://github.com/HashnodeWithAngular) | <h3>**Hashnode with Angular**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | 
-| [![TechOpenSolve](https://raw.githubusercontent.com/esthersoftwaredev/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
+| [![TechOpenSolve](https://raw.githubusercontent.com/esthersoftwaredev/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API| -->
 
 
 <!-- | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI | -->
@@ -32,18 +32,20 @@
 
 <h3 style="font-size: 2rem;">Work with me:</h3>
 
-| <p>Hire me on</p><a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <p>Or maybe</p><a href='https://ko-fi.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | 
-| - | -
+| Hire me on | Buy me a ko-fi | Or maybe |
+|------------|---------|---------|
+| <a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <a href='https://ko-fi.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | <a href='https://buymeacoffee.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/esthersoftwaredev/images/refs/heads/main/buy-me-a-coffee.png' /></a> |
+
 
 <h3>More about me </h3>
 
-I provide premium and free mentorship.
+<!-- I provide premium and free mentorship.
 
 I am fluent in 3+ languages.
 
 <h3 style="font-size: 2rem;">Book a mentorship session</h3>
 
-[![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) 
+[![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) -->
 
 previously known as `{{ MonaCodeLisa }}`, `esteecodes`
 
