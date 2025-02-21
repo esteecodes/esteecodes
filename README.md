@@ -14,13 +14,14 @@
 
 <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
-| Project | Description and Tech |
-|--------|----------------------------|
-| [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=96&v=4)](https://github.com/orgs/WomenInSoftwareDev) | <h3>**Women in Software Dev**</h3> Empowering women in software development & engineering through visibility, resources, and collaboration. <br><br> **Tech: Migrating to** <br> • Next.js <br> • Tailwind CSS |
-| [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=96&v=4)](https://github.com/Shared-IDE/free-editor) | <h3>**Shared IDE - Free Editor**</h3> The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. <br><br> **Tech:** <br> • CodeMirror <br> • Gemini API <br> • AnalogJS & Angular Material UI |
-| [![WithAngular](https://avatars.githubusercontent.com/u/194696467?s=96&v=4)](https://github.com/WithAngular) | <h3>**WithAngular**</h3> A growing multi-domain ecosystem providing tools, resources, support, and opportunities for Angular developers. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> |
-| [![HashBlogWithAngular](https://avatars.githubusercontent.com/u/161918167?s=96&v=4)](https://github.com/HashnodeWithAngular) | <h3>**Hashnode with Angular**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • GraphQL <br> • Angular & **Prime NG** <br> • AnalogJS & Angular Material UI | 
-| [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=96&v=4)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API| 
+| Project | Name & Description | Tech |
+|---------|--------------------|------|
+| [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=96&v=4)](https://github.com/orgs/WomenInSoftwareDev) | **Women in Software Dev**<br>Empowering women in software development & engineering through visibility, resources, and collaboration. | **Migrating to:**<br>• Next.js <br>• Tailwind CSS |
+| [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=96&v=4)](https://github.com/Shared-IDE/free-editor) | **Shared IDE - Free Editor**<br>The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. | • CodeMirror <br>• Gemini API <br>• AnalogJS & Angular Material UI |
+| [![WithAngular](https://avatars.githubusercontent.com/u/194696467?s=96&v=4)](https://github.com/WithAngular) | **WithAngular**<br>A growing multi-domain ecosystem providing tools, resources, support, and opportunities for Angular developers. | • Angular <br>• Angular Material UI |
+| [![HashBlogWithAngular](https://avatars.githubusercontent.com/u/161918167?s=96&v=4)](https://github.com/HashnodeWithAngular) | **Hashnode with Angular**<br>Angular frontend for headless Hashnode blogs. | • GraphQL <br>• Angular & **Prime NG** <br>• AnalogJS & Angular Material UI |
+| [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=96&v=4)](https://github.com/techOpenSolve) | **TechOpenSolve**<br>An open-source initiative to solve real-world tech problems. | • Angular <br>• Angular Material UI <br>• GitHub API |
+
 
 
 <!-- | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI | -->
