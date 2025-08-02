@@ -47,15 +47,23 @@ I am fluent in 3+ languages.
 
 [![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) -->
 
-previously known as `{{ MonaCodeLisa }}`, `esteecodes`
+previously known as:
+<ul>
+ <li>esthersoftwaredev</li>
+ <li>{{ MonaCodeLisa }}</li>
+ <li>estherwhitedev</li>
+ <li>esteecodes</li>
+ <li>estherwebdev</li>
+</ul>
+
 
 <h3>Connect with me on Social Media ↓</h3>
-<a href="https://www.linkedin.com/in/esthersoftwaredev/" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
-<a href="https://codepen.io/esthersoftwaredev" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
-<a href="https://dev.to/esthersoftwaredev" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/dev-dot-to.png?raw=true"></a>
-<a href="https://twitter.com/esthersoftware" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/twitter.png?raw=true"></a>
-<a href="https://www.youtube.com/c/EstherWhiteDev" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/youtube.png?raw=true"></a>
-<a href="https://www.instagram.com/esthersoftwaredev/" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/instagram.png?raw=true"></a>
-<a href="https://www.tiktok.com/@esthersoftwaredev" target="_blank"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/tiktok.png?raw=true"></a>
-<a href="https://www.twitch.tv/esthersoftwaredev" target="_blanc"><img src="https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/icomoon/PNG/twitch.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
+<a href="https://codepen.io/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
+<a href="https://dev.to/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/dev-dot-to.png?raw=true"></a>
+<a href="https://x.com/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/twitter.png?raw=true"></a>
+<a href="https://www.youtube.com/c/EsteeCodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/youtube.png?raw=true"></a>
+<a href="https://www.instagram.com/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/instagram.png?raw=true"></a>
+<a href="https://www.tiktok.com/@esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/tiktok.png?raw=true"></a>
+<a href="https://www.twitch.tv/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/twitch.png?raw=true"></a>
 <br>
