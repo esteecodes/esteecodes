@@ -5,7 +5,7 @@
 
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthersoftwaredev&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteecodes&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
  
 <!-- | Stats | Languages |
@@ -34,7 +34,7 @@
 
 | Hire me on | Buy me a ko-fi | Or maybe |
 |------------|---------|---------|
-| <a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/esthersoftwaredev/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <a href='https://ko-fi.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | <a href='https://buymeacoffee.com/esthersoftwaredev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/esthersoftwaredev/images/refs/heads/main/buy-me-a-coffee.png' /></a> |
+| <a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/esteecodes/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <a href='https://ko-fi.com/esteecodes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | <a href='https://buymeacoffee.com/esteecodes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/esteecodes/images/refs/heads/main/buy-me-a-coffee.png' /></a> |
 
 
 <h3>More about me </h3>
