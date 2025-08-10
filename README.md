@@ -49,11 +49,11 @@ I am fluent in 3+ languages.
 
 previously known as:
 <ul>
- <li>esthersoftwaredev</li>
- <li>{{ MonaCodeLisa }}</li>
- <li>estherwhitedev</li>
- <li>esteecodes</li>
- <li>estherwebdev</li>
+ <li>esthersoftwaredev | 2024 - 2025</li>
+ <li>{{ MonaCodeLisa }} | 2023</li>
+ <li>estherwhitedev | 2022</li>
+ <li>esteecodes | since 2020</li>
+ <li>estherwebdev | 2018- 2029</li>
 </ul>
 
 
