@@ -5,14 +5,14 @@
 
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteecodes&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+<!-- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteecodes&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------| -->
  
 <!-- | Stats | Languages |
 |-------|-----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=monacodelisa&count_private=true&theme=chartreuse-dark&show_icons=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) | -->
 
-<h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
+<!-- <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
 | Project | Name & Description | Tech |
 |---------|--------------------|------|
