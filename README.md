@@ -3,6 +3,12 @@
 <!-- <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1" alt="GitRoll Profile Badge"/></a> -->
 <h2 style="font-size: 2rem;"> FullStack Web Developer</h2> 
 
+<p>🔙 Backend - REST API, NodeJS, Express, C# .NET, Python <br />
+🖥️ Frontend - Astro, AnalogJS, Angular, RxJS, TypeScript, JavaScript, PrimeNG, SCSS, CSS, HTML <br />
+🛢️ Databases - MySQL, SQLite, PostgreSQL, MongoDB <br />
+📱 Mobile Development - .NET MAUI, Kotlin <br />
+🌐 Miscellaneous - GIT/GitHub, AWS, Azure, Postman, CI/CD</p>
+
 <!--  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) -->
 
 <!-- | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esteecodes&hide=css&theme=chartreuse-dark&langs_count=10&layout=compact" alt="Languages" width="370"/> | <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1?theme=nord" alt="GitRoll Profile Badge" width="400"/></a> |
