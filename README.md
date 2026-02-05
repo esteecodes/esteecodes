@@ -67,7 +67,7 @@ previously known as:
 <a href="https://www.linkedin.com/in/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
 <a href="https://codepen.io/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
 <a href="https://dev.to/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/dev-dot-to.png?raw=true"></a>
-<a href="https://x.com/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/twitter.png?raw=true"></a>
+<a href="https://x.com/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/x-white-sized.png?raw=true"></a>
 <a href="https://www.youtube.com/c/EsteeCodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/youtube.png?raw=true"></a>
 <a href="https://www.instagram.com/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/instagram.png?raw=true"></a>
 <a href="https://www.tiktok.com/@esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/tiktok.png?raw=true"></a>
