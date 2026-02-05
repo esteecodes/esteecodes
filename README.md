@@ -69,7 +69,7 @@ previously known as:
 <a href="https://dev.to/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/dev-dot-to.png?raw=true"></a>
 <a href="https://x.com/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/x-white-sized.png?raw=true"></a>
 <a href="https://www.youtube.com/c/EsteeCodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/youtube.png?raw=true"></a>
-<a href="https://www.instagram.com/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/instagram.png?raw=true"></a>
+<a href="https://www.instagram.com/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/instagram-new-sized.png?raw=true"></a>
 <a href="https://www.tiktok.com/@esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/tiktok.png?raw=true"></a>
-<a href="https://www.twitch.tv/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/twitch.png?raw=true"></a>
+<!-- <a href="https://www.twitch.tv/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/PNG/twitch.png?raw=true"></a> -->
 <br>
