@@ -18,16 +18,25 @@
 |-------|-----------|
 | ![Stats](https://github-readme-stats.vercel.app/api?username=monacodelisa&count_private=true&theme=chartreuse-dark&show_icons=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact) | -->
 
-<!-- <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
+<h2 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h2>
 
-| Project | Name & Description | Tech |
+[StarCluster UI](https://github.com/esteecodes/starcluster-ui) -> Astro, UI Component Library, early stage
+
+[Angular v20 Bulk File Refactor](https://github.com/esteecodes/angular-v20-bulk-file-refactor) -> CLI tool, Python, node.js, npm
+
+[Women in Software Dev](https://github.com/orgs/WomenInSoftwareDev) -> Resources for women in software development, migrating to Astro 
+
+[HashnodeWithAngular](https://github.com/HashnodeWithAngular) -> Angular, PrimeNG, AnalogJS, Angular Material, GraphQL
+
+[TechOpenSolve](https://github.com/techOpenSolve) -> this is the only one that does not require coding
+
+
+<!-- | Project | Name & Description | Tech |
 |---------|--------------------|------|
 | [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=96&v=4)](https://github.com/orgs/WomenInSoftwareDev) | **Women in Software Dev**<br>Empowering women in software development & engineering through visibility, resources, and collaboration. | **Migrating to:**<br>• Astro <br>• Astro Islands |
 | [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=96&v=4)](https://github.com/Shared-IDE/free-editor) | **Shared IDE - Free Editor**<br>The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. | • CodeMirror <br>• Gemini API <br>• AnalogJS & Angular Material UI |
 | [![HashBlogWithAngular](https://avatars.githubusercontent.com/u/161918167?s=96&v=4)](https://github.com/HashnodeWithAngular) | **Hashnode with Angular**<br>Angular frontend for headless Hashnode blogs. | • GraphQL <br>• Angular & **Prime NG** <br>• AnalogJS & Angular Material UI |
-| [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=96&v=4)](https://github.com/techOpenSolve) | **TechOpenSolve**<br>An open-source initiative to solve real-world tech problems. | • Angular <br>• Angular Material UI <br>• GitHub API |
-
-
+| [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=96&v=4)](https://github.com/techOpenSolve) | **TechOpenSolve**<br>An open-source initiative to solve real-world tech problems. | • Angular <br>• Angular Material UI <br>• GitHub API | -->
 
 <!-- | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI | -->
 
@@ -36,7 +45,7 @@
 |--------|--------|--------|--------|
 | [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | -->
 
-<h3 style="font-size: 2rem;">Work with me:</h3>
+<h2 style="font-size: 2rem;">Work with me:</h2>
 
 | Hire me on | Buy me a ko-fi | Or maybe |
 |------------|---------|---------|
